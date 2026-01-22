@@ -1,21 +1,9 @@
-###################################################################
-### Aviso: Caso use este arquivo, renomeie para discloud.config ###
-###################################################################
-
-##################################################################################################################
-### Atenção: A RAM você pode alterar de acordo com o plano contratado (ou quantidade desejada).                ###
-### Caso use um plano pago que forneça no mínimo 512MB + 0.5vcpu recomendo que edite o arquivo .env e no campo ###
-### AUTO_DOWNLOAD_LAVALINK_SERVERLIST mude o valor true para false                                             ###
-###                                                                                                            ###
-### Caso queira, você pode alterar o NAME e link do AVATAR.                                                    ###
-##################################################################################################################
-
-ID=1234567890
-NAME=Muse Heart Music Source
-AVATAR=https://i.ibb.co/mDrkdmb/muse.png
+ID=1463443056278634619
+NAME=vidgal musica
+AVATAR=https://cdn.discordapp.com/attachments/1462264687298347101/1463701088015355904/IMG_4692.jpg?ex=6972c95d&is=697177dd&hm=a027e298e2b44f820c08fbc29d5f970fae2031d96a0588f6a258f007140b319a&
 TYPE=bot
 MAIN=main.py
-RAM=100
+RAM=512
 AUTORESTART=false
 VERSION=latest
 APT=tools
